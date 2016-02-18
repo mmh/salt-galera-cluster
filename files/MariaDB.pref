@@ -1,0 +1,3 @@
+Package: *
+Pin: origin http://mirror.one.com/mariadb/repo/10.1/debian
+Pin-Priority: 1000

@@ -1,0 +1,5 @@
+[client]
+user=root
+host=localhost
+password='{{ pillar['mysql_config']['admin_password'] }}'
+
